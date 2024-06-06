@@ -1,3 +1,0 @@
-"# STM32F746xx" 
-"# STM32F746xx" 
-# STM32F746xx
