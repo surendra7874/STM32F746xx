@@ -1,0 +1,9 @@
+main.c:61:6:uart_Send	2
+main.c:76:6:uart_Send_IT	1
+main.c:81:9:uart_Receive	2
+main.c:94:9:uart_Receive_IT	1
+main.c:105:5:main	1
+main.c:149:6:SystemClock_Config	3
+main.c:191:13:MX_USART6_UART_Init	2
+main.c:226:13:MX_GPIO_Init	1
+main.c:246:6:Error_Handler	1

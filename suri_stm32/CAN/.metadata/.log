@@ -1,0 +1,30 @@
+!SESSION 2024-01-23 11:43:32.943 -----------------------------------------------
+eclipse.buildId=Version 1.12.1
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-23 11:44:06.004
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-23 11:44:06.031
+!MESSAGE Log4j2 initialized with config file C:\Users\INVADL0583\OneDrive - Lucy Group Ltd\Documents\Embedded Graphics\My Works\CAN\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-23 11:44:10.921
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2024-01-24 08:53:20.560 -----------------------------------------------
+eclipse.buildId=Version 1.12.1
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-24 08:53:47.085
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-24 08:53:47.098
+!MESSAGE Log4j2 initialized with config file C:\Users\INVADL0583\OneDrive - Lucy Group Ltd\Documents\Embedded Graphics\My Works\CAN\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-24 08:53:53.749
+!MESSAGE Started RMI Server, listening on port 41337

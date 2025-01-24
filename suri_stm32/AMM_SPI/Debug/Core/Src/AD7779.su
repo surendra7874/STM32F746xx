@@ -1,0 +1,4 @@
+../Core/Src/AD7779.c:17:6:readRegister	24	static
+../Core/Src/AD7779.c:27:6:modifyRegister	24	static
+../Core/Src/AD7779.c:42:6:AD7779_hardRESET	8	static
+../Core/Src/AD7779.c:50:6:AD7779_softRESET	8	static

@@ -1,0 +1,8 @@
+../Core/Src/M24C08.c:30:10:bytestowrite	16	static
+../Core/Src/M24C08.c:42:6:M24C08_Write	64	static
+../Core/Src/M24C08.c:76:6:float2Bytes	24	static
+../Core/Src/M24C08.c:91:7:Bytes2float	32	static
+../Core/Src/M24C08.c:113:6:M24C08_Write_NUM	16	static
+../Core/Src/M24C08.c:127:7:M24C08_Read_NUM	24	static
+../Core/Src/M24C08.c:142:6:M24C08_Read	64	static
+../Core/Src/M24C08.c:168:6:M24C08_PageErase	56	static
